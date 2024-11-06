@@ -1,0 +1,15 @@
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\bin\Debug\net8.0\RemAcademy.Business.deps.json
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\bin\Debug\net8.0\RemAcademy.Business.dll
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\bin\Debug\net8.0\RemAcademy.Business.pdb
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\bin\Debug\net8.0\RemAcademy.Data.dll
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\bin\Debug\net8.0\RemAcademy.Data.pdb
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\RemAcademy.Business.csproj.AssemblyReference.cache
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\RemAcademy.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\RemAcademy.Business.AssemblyInfoInputs.cache
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\RemAcademy.Business.AssemblyInfo.cs
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\RemAcademy.Business.csproj.CoreCompileInputs.cache
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\RemAcade.3311488E.Up2Date
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\RemAcademy.Business.dll
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\refint\RemAcademy.Business.dll
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\RemAcademy.Business.pdb
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Business\obj\Debug\net8.0\ref\RemAcademy.Business.dll

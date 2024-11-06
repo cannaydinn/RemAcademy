@@ -1,0 +1,848 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\models\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\models\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\models\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\models\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\middlewares\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\middlewares\\middlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\middlewares\\maintenancemiddliware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\middlewares\\maintenancemiddliware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\jwt\\jwtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\jwt\\jwtdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\jwt\\jwtclaimnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\jwt\\jwtclaimnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\filters\\timecontrolerfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\filters\\timecontrolerfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9371F1E-A231-4AAB-9E37-54DF9717FC0A}|RemAcademy.WebApi\\RemAcademy.WebApi.csproj|solutionrelative:remacademy.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\enums\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\types\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\types\\servicemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\user\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\user\\dtos\\userinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\user\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\user\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\user\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\user\\dtos\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\setting\\settingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\setting\\settingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\setting\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\setting\\isettingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\product\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\product\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\product\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\product\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\product\\dtos\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\product\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\product\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\product\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\product\\dtos\\addproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\order\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\order\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\order\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\order\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\order\\dtos\\orderproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.business\\operations\\order\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5AC5150-7396-4F9B-8F76-BD32FEBD50F9}|RemAcademy.Business\\RemAcademy.Business.csproj|solutionrelative:remacademy.business\\operations\\order\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\entities\\settingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\entities\\settingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\entities\\orderproductentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\entities\\orderproductentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\context\\remacademydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\context\\remacademydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|c:\\users\\can\\desktop\\full-stack_webdevelopment\\remacademy\\remacademy.data\\migrations\\20241106150433_addtotalamounttoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E695DB-ABA3-475E-B53F-D05A77040FAB}|RemAcademy.Data\\RemAcademy.Data.csproj|solutionrelative:remacademy.data\\migrations\\20241106150433_addtotalamounttoorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:26:30.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Models\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:05:18.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Models\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\UpdateProductRequest.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Models\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:26:36.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Program.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:22:54.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:05:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\appsettings.json",
+              "RelativeToolTip": "RemAcademy.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T16:28:47.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "RemAcademy.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T16:28:51.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Models\\AddProductRequest.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Models\\AddProductRequest.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Models\\AddProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:00:38.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:06:02.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Middlewares\\MiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Middlewares\\MiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Middlewares\\MiddlewareExtensions.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Middlewares\\MiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:30:54.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MaintenanceMiddliware.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Middlewares\\MaintenanceMiddliware.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Middlewares\\MaintenanceMiddliware.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Middlewares\\MaintenanceMiddliware.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Middlewares\\MaintenanceMiddliware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:30:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Jwt\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Jwt\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Jwt\\JwtHelper.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Jwt\\JwtHelper.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:26:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Jwt\\JwtDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Jwt\\JwtDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Jwt\\JwtDto.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Jwt\\JwtDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:26:23.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtClaimNames.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Jwt\\JwtClaimNames.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Jwt\\JwtClaimNames.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Jwt\\JwtClaimNames.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Jwt\\JwtClaimNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:26:21.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TimeControlerFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Filters\\TimeControlerFilter.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Filters\\TimeControlerFilter.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Filters\\TimeControlerFilter.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Filters\\TimeControlerFilter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:05:03.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Controllers\\SettingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:57:28.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:52:47.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "RemAcademy.Data\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:56:49.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "RemAcademy.Data\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:56:43.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA8wEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:56:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:56:31.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Enums\\UserType.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Enums\\UserType.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Enums\\UserType.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Enums\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:56:20.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RemAcademy.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RemAcademy.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:52:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Types\\ServiceMessage.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Types\\ServiceMessage.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Types\\ServiceMessage.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Types\\ServiceMessage.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:56:02.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\IUserService.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:55:46.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\ProductManager.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Product\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\ProductManager.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Product\\ProductManager.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAswL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:07:59.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISettingService.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Setting\\ISettingService.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Setting\\ISettingService.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Setting\\ISettingService.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Setting\\ISettingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:25:03.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SettingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Setting\\SettingManager.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Setting\\SettingManager.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Setting\\SettingManager.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Setting\\SettingManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:25:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\Dtos\\AddUserDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\User\\Dtos\\AddUserDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\Dtos\\AddUserDto.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\User\\Dtos\\AddUserDto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:24:54.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\Dtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\User\\Dtos\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\Dtos\\LoginUserDto.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\User\\Dtos\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:05:08.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\UserManager.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\User\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\UserManager.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\User\\UserManager.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:17:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\IProductService.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Product\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\IProductService.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Product\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:54:52.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\Dtos\\UserInfoDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\User\\Dtos\\UserInfoDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\User\\Dtos\\UserInfoDto.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\User\\Dtos\\UserInfoDto.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:24:56.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\Dtos\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Product\\Dtos\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\Dtos\\UpdateProductDto.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Product\\Dtos\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:54:46.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Product\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Product\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:54:40.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\Dtos\\AddProductDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Product\\Dtos\\AddProductDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Product\\Dtos\\AddProductDto.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Product\\Dtos\\AddProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:54:34.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SettingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\SettingEntity.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Entities\\SettingEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\SettingEntity.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Entities\\SettingEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:38:49.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Entities\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Entities\\ProductEntity.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:38:48.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\OrderProductEntity.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Entities\\OrderProductEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\OrderProductEntity.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Entities\\OrderProductEntity.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:38:52.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:03:38.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Order\\Dtos\\OrderDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Order\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Order\\Dtos\\OrderDto.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Order\\Dtos\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:59:46.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Order\\Dtos\\OrderProductDto.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Order\\Dtos\\OrderProductDto.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Order\\Dtos\\OrderProductDto.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Order\\Dtos\\OrderProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:01:30.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Order\\IOrderService.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Order\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Order\\IOrderService.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Order\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:01:34.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Order\\OrderManager.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Business\\Operations\\Order\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Business\\Operations\\Order\\OrderManager.cs",
+              "RelativeToolTip": "RemAcademy.Business\\Operations\\Order\\OrderManager.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:59:52.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Entities\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Entities\\OrderEntity.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:59:31.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:37:30.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20241106150433_AddTotalAmountToOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Migrations\\20241106150433_AddTotalAmountToOrder.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Migrations\\20241106150433_AddTotalAmountToOrder.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Migrations\\20241106150433_AddTotalAmountToOrder.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Migrations\\20241106150433_AddTotalAmountToOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:04:33.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RemAcademyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Context\\RemAcademyDbContext.cs",
+              "RelativeDocumentMoniker": "RemAcademy.Data\\Context\\RemAcademyDbContext.cs",
+              "ToolTip": "C:\\Users\\Can\\Desktop\\Full-Stack_WebDevelopment\\RemAcademy\\RemAcademy.Data\\Context\\RemAcademyDbContext.cs",
+              "RelativeToolTip": "RemAcademy.Data\\Context\\RemAcademyDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:01:14.405Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

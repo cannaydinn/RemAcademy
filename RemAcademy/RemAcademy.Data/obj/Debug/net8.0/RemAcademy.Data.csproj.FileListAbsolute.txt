@@ -1,0 +1,14 @@
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\bin\Debug\net8.0\RemAcademy.Data.deps.json
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\bin\Debug\net8.0\RemAcademy.Data.runtimeconfig.json
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\bin\Debug\net8.0\RemAcademy.Data.dll
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\bin\Debug\net8.0\RemAcademy.Data.pdb
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\RemAcademy.Data.csproj.AssemblyReference.cache
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\RemAcademy.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\RemAcademy.Data.AssemblyInfoInputs.cache
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\RemAcademy.Data.AssemblyInfo.cs
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\RemAcademy.Data.csproj.CoreCompileInputs.cache
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\RemAcademy.Data.dll
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\refint\RemAcademy.Data.dll
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\RemAcademy.Data.pdb
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\RemAcademy.Data.genruntimeconfig.cache
+C:\Users\can\Desktop\Full-Stack_WebDevelopment\RemAcademy\RemAcademy.Data\obj\Debug\net8.0\ref\RemAcademy.Data.dll
