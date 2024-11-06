@@ -205,8 +205,8 @@ Authentication in RemAcademy is handled using **JWT Bearer Tokens**. Upon succes
 
 
 ## Middleware & Filters
-**Maintenance Mode Middleware
-**The MaintenanceMiddleware checks whether the system is in maintenance mode. If the system is in maintenance mode, all requests except login and settings-related requests will be blocked, and a "Service Unavailable" message will be returned.
+-Maintenance Mode Middleware
+--The MaintenanceMiddleware checks whether the system is in maintenance mode. If the system is in maintenance mode, all requests except login and settings-related requests will be blocked, and a "Service Unavailable" message will be returned.
 
 ## Time-Controlled Access Filter
-**The TimeControllerFilter restricts access to specific API endpoints based on the time of day. For example, certain endpoints can only be accessed between 10:00 PM and 11:00 PM.
+-The TimeControllerFilter restricts access to specific API endpoints based on the time of day. For example, certain endpoints can only be accessed between 10:00 PM and 11:00 PM.
